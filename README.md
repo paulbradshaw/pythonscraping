@@ -9,3 +9,7 @@ This session explores the different roles that scraping can play in a story, int
 * Notebook 1: [First steps in Colab and Python](https://github.com/paulbradshaw/pythonscraping/blob/main/session1/pythonFirstStepsColab.ipynb)
 * [Session 1 tasks](https://github.com/paulbradshaw/pythonscraping/blob/main/session1/task01.md)
 * All slides for session 1 are in the [session1 folder](https://github.com/paulbradshaw/pythonscraping/tree/main/session1)
+
+## Session 2: Using libraries for scraping
+
+* All slides for session 2 are in the [session2 folder](https://github.com/paulbradshaw/pythonscraping/tree/main/session2)
