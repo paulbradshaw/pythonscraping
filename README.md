@@ -12,4 +12,14 @@ This session explores the different roles that scraping can play in a story, int
 
 ## Session 2: Using libraries for scraping
 
+* Notebook 2: [Using libraries in Python](https://github.com/paulbradshaw/pythonscraping/blob/main/session2/anExampleScraperLibraries.ipynb)
+* Notebook 3: [An example scraper using `cssselect` to drill down into scraped webpages](https://github.com/paulbradshaw/pythonscraping/blob/main/session2/exampleScraperCSSselect.ipynb)
+* [Bonus notebook on dictionaries](https://github.com/paulbradshaw/pythonscraping/blob/main/session2/dictionaries.ipynb)
+* [Session 2 tasks](https://github.com/paulbradshaw/pythonscraping/blob/main/session2/task02.md)
 * All slides for session 2 are in the [session2 folder](https://github.com/paulbradshaw/pythonscraping/tree/main/session2)
+
+## Session 3: Creating functions for scraping
+
+* Notebook 4: [Creating functions in Python](https://github.com/paulbradshaw/pythonscraping/blob/main/session3/04createFunctionsScraper.ipynb)
+* Bonus notebook: [Scraping JSON in Python](https://github.com/paulbradshaw/pythonscraping/blob/main/session3/05scrapingJSONinspector.ipynb)
+* All slides for session 3 are in the [session3 folder](https://github.com/paulbradshaw/pythonscraping/tree/main/session3)
