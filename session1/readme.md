@@ -1,6 +1,14 @@
-# Session 1 tasks
+# Session 1 
+
+By the end of this first session you should be able to:
+
+* [Identify potential uses of scraping in your work](https://github.com/paulbradshaw/pythonscraping/blob/main/session1/CIJ%20Scraping%2000%20intro.pdf)
+* [Explain basic coding concepts such as variables and lists](https://github.com/paulbradshaw/pythonscraping/blob/main/session1/CIJ%20Scraping_02_Colabintro.pdf)
+* Create a Colab notebook and use it to write some basic Python
 
 Before session 2, you will need to do the following:
+
+## Tasks 
 
 * Create a new notebook in Colab
 * Create a text block and write an introduction to your notebook
