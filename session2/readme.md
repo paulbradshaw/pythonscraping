@@ -1,11 +1,16 @@
+# Session 2
+
+After the second session you should be able to:
+* Describe what libraries, functions and selectors are 
+* Import libraries, use functions from those libraries, and target HTML using selectors
+
 # Session 2 tasks:
 
 Create and share a new notebook which does the following:
 
 * Imports the libraries you need to scrape a webpage and store the info from it
-* Use the `scraperwiki` library to scrape a webpage from a URL
-* Use the `lxml.html` library to convert it to an lxml 'object'
-* Use CSS selectors to drill down into that object and extract info from the webpage (see note below)
+* Use the `requests` library to fetch a webpage from a URL
+* Use the `BeautifulSoup()` function with CSS selectors to drill down into that object and extract info from the webpage (see note below)
 * Use `pandas` to create a data frame and store that info
 * Export it as a CSV
 * Download it to your computer
