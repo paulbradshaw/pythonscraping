@@ -2,7 +2,9 @@
 
 This third and final session builds on the previous sessions to expand from scraping one page to scraping multiple pages.
 
-We do this by creating a **function** that stores all the code we wrote to scrape *one* page, so that we can apply that code in a loop to a list of multiple pages. The [slides about this are in this folder](https://github.com/paulbradshaw/pythonscraping/blob/main/session3/Scraping_06_creatingFunctions.pdf_
+## Bonus material
+
+Once you start to run the same code on multiple pages it is worth creating a **function** that stores all the code we wrote to scrape *one* page, so that we can apply that code in a loop to a list of multiple pages. The [slides about this are in this folder](https://github.com/paulbradshaw/pythonscraping/blob/main/session3/06_creatingFunctions.pdf)
 
 You'll find a [Python notebook in this folder that walks through the principles of writing and using functions](https://github.com/paulbradshaw/pythonscraping/blob/main/session3/04createFunctionsScraper.ipynb). You can download this, then upload it to your Google Drive, and open it as a Colab notebook to run your own copy.
 
