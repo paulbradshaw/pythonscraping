@@ -1,6 +1,6 @@
 # Session 3 materials
 
-This third and final session builds on the previous sessions to expand from scraping one page to scraping multiple pages.
+This third and final session builds on the previous sessions to expand from scraping one page to scraping multiple pages. We start by stripping back everything we've done before to just 8 lines in [this scraper](https://github.com/paulbradshaw/pythonscraping/blob/main/session3/8lineScraperFERRET.ipynb)
 
 ## Bonus material
 
